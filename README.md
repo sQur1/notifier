@@ -1,5 +1,5 @@
-# Notifier
-## Battery and Bluetooth notifier - for MacOS laptops
+# MacOS Notifier
+## Battery and Bluetooth notifications for MacOS laptops
 
 While running the script:
     1. You will receive a notification at 1% battery to plug in your laptop and the same at 100% to unplug it.
