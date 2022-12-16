@@ -7,6 +7,11 @@ While running the script:
     
 ###### Those 2 notifications are persistent so long as the conditions are not met. E.g.: If you don't unplug your laptop at 100%, it will nudge you until you do.
 
+Requirements:
+
+    1. Python3
+    2. Tweepy (install through pip)
+
 Installation:
 
     1. Clone repo and unzip
